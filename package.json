@@ -14,7 +14,7 @@
     "@types/node-telegram-bot-api": "^0.31.0",
     "@types/tar": "^4.0.0",
     "@types/uuid": "^3.4.4",
-    "aria2": "^3.0.1",
+    "aria2": "^4.1.0",
     "diskspace": "^2.0.0",
     "fs-extra": "^7.0.0",
     "googleapis": "^49.0.0",
